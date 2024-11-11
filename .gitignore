@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Dependencias de producción
+build/
+
+# Archivos de configuración de npm
+package-lock.json
+package.json
+
+# Entornos de desarrollo y producción
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos específicos del editor
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Sistema de compilación
+dist/
