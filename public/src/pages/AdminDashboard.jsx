@@ -1,5 +1,4 @@
- src/pages/AdminDashboard.jsx
- 
+// src/pages/AdminDashboard.jsx
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { Button, Container } from "react-bootstrap";
