@@ -1,0 +1,18 @@
+body {
+    background-color: #cce7ff;
+    color: black;
+    font-family: Arial, sans-serif;
+  }
+  .header, .footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #004085;
+    color: white;
+  }
+  .car-card {
+    border: 1px solid #62c5c2;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #fff;
+  }
+  
